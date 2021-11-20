@@ -1,0 +1,8 @@
+jeedom:
+  api:
+    base-url: 192.168.0.31
+    context: core/api/jeeApi.php
+    key: CbEGSDbZmDGM8O69WlLcs4LdSIQibH0W
+  cmd:
+    ceiling-light-on: 52
+    ceiling-light-off: 53
